@@ -1,0 +1,13 @@
+package com.sigma.dao;
+
+import com.sigma.beans.Bookings;
+
+public class BookingDAOArrayImplementation implements BookingDAO {
+
+	@Override
+	public int addTicket(Bookings booking) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+}

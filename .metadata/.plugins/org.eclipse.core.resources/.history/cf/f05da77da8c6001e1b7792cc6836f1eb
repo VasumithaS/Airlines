@@ -1,0 +1,7 @@
+package com.sigma.dao;
+
+import com.sigma.beans.User;
+
+public interface BookingDAO {
+	public int addTicket();
+}

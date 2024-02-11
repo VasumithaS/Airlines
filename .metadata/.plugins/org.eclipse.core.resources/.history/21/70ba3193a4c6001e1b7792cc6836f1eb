@@ -1,0 +1,13 @@
+package com.sigma.service;
+
+import com.sigma.beans.User;
+
+public class bookingService {
+	BookingDAO bookingdao = new BookingDAOArrayImplementation();
+	public int addTicket()
+	{
+		userDao.addUserDetails(user);
+		return 0;
+	}
+
+}

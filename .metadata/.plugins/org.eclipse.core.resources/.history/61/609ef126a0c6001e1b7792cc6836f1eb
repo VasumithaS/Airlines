@@ -1,0 +1,5 @@
+package com.sigma.beans;
+
+public class Carrier {
+
+}

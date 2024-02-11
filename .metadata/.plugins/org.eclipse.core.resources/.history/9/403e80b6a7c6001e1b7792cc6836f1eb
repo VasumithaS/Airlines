@@ -1,0 +1,14 @@
+package com.sigma.dao;
+
+import com.sigma.beans.Bookings;
+import com.sigma.beans.Flight;
+
+public class BookingDAOArrayImplementation implements BookingDAO {
+
+	public static Bookings[] book = new Bookings[0];
+	public int addTicket(Bookings booking) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+}
